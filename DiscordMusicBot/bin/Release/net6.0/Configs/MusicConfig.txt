@@ -1,0 +1,5 @@
+LavalinkIP = 0.0.0.0
+LavalinkPort = 2333
+LavalinkPassword = youshallnotpass
+LavalinkSecureConnection = false
+Log = true

@@ -1,0 +1,6 @@
+CommandName = help
+Description = Displays commands and command information.
+Usage0 = help
+Usage1 = help <command>
+Example0 = help
+Example1 = help play

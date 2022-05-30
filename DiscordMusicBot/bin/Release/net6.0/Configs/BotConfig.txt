@@ -1,0 +1,8 @@
+Token = Insert Token Here
+CommandPrefix = !
+ClientStatus = 1
+ClientActivity = 2
+CoreModule = true
+MusicModule = true
+BossTimerModule = true
+PearlShopModule = true

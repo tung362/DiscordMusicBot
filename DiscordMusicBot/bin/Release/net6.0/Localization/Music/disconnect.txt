@@ -1,0 +1,4 @@
+CommandName = disconnect
+Description = Leave the currently connected voice chat.
+Usage0 = disconnect
+Example0 = disconnect

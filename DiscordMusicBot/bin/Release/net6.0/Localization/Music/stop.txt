@@ -1,0 +1,4 @@
+CommandName = stop
+Description = Stop the currently playing music track, clears the playlist, and reset the music player.
+Usage0 = stop
+Example0 = stop

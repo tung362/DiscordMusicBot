@@ -1,0 +1,4 @@
+CommandName = pause
+Description = Pause the currently playing music track.
+Usage0 = pause
+Example0 = pause

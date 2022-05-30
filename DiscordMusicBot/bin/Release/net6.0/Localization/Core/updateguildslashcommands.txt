@@ -1,0 +1,4 @@
+CommandName = updateguildslashcommands
+Description = Update guild slash commands.
+Usage0 = updateguildslashcommands
+Example0 = updateguildslashcommands

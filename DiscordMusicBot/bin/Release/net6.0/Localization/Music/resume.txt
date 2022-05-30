@@ -1,0 +1,4 @@
+CommandName = resume
+Description = Resume the currently paused music track.
+Usage0 = resume
+Example0 = resume

@@ -1,0 +1,4 @@
+CommandName = removetrack
+Description = Remove music track at the specified position within the playlist.
+Usage0 = removetrack <index>
+Example0 = removetrack 2

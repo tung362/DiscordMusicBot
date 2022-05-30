@@ -1,0 +1,4 @@
+CommandName = skip
+Description = Skip to the next music track within the playlist.
+Usage0 = skip
+Example0 = skip

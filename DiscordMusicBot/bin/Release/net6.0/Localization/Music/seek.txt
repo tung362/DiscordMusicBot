@@ -1,0 +1,4 @@
+CommandName = seek
+Description = Seek to the specified position within the playlist.
+Usage0 = seek <index>
+Example0 = seek 2

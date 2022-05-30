@@ -1,0 +1,4 @@
+CommandName = updateglobalslashcommands
+Description = Update global slash commands.
+Usage0 = updateglobalslashcommands
+Example0 = updateglobalslashcommands

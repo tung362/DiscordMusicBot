@@ -1,0 +1,4 @@
+CommandName = clearplaylist
+Description = Clear all music tracks queued.
+Usage0 = clearplaylist
+Example0 = clearplaylist

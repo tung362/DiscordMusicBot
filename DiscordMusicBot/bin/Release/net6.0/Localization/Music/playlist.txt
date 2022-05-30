@@ -1,0 +1,4 @@
+CommandName = playlist
+Description = Displays all music tracks queued.
+Usage0 = playlist
+Example0 = playlist

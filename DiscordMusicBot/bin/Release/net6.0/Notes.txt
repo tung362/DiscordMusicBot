@@ -1,0 +1,3 @@
+Requirements:
+-.NETCoreApp 6.0
+-Java 16

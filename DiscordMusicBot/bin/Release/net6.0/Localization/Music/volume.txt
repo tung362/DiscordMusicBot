@@ -1,0 +1,4 @@
+CommandName = volume
+Description = Changes the volume of the music player from range of 0 - 200.
+Usage0 = volume <volume>
+Example0 = volume 50

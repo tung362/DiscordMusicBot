@@ -1,0 +1,4 @@
+CommandName = loop
+Description = Calling the command multiple times will switch from loop track, loop playlist, disable looping.
+Usage0 = loop
+Example0 = loop

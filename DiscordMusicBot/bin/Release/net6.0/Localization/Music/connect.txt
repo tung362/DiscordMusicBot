@@ -1,0 +1,4 @@
+CommandName = connect
+Description = Join voice chat the user is in.
+Usage0 = connect
+Example0 = connect

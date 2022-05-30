@@ -1,0 +1,4 @@
+CommandName = lyrics
+Description = Displays lyrics of the currently playing music track.
+Usage0 = lyrics
+Example0 = lyrics

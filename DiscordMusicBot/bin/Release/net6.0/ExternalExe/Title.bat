@@ -1,0 +1,1 @@
+yt-dlp --get-title {url}

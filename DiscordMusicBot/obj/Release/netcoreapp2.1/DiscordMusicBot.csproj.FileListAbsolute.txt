@@ -1,0 +1,11 @@
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\DiscordMusicBot\DiscordMusicBot\bin\Release\netcoreapp2.1\DiscordMusicBot.deps.json
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\DiscordMusicBot\DiscordMusicBot\bin\Release\netcoreapp2.1\DiscordMusicBot.runtimeconfig.json
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\DiscordMusicBot\DiscordMusicBot\bin\Release\netcoreapp2.1\DiscordMusicBot.runtimeconfig.dev.json
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\DiscordMusicBot\DiscordMusicBot\bin\Release\netcoreapp2.1\DiscordMusicBot.dll
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\DiscordMusicBot\DiscordMusicBot\bin\Release\netcoreapp2.1\DiscordMusicBot.pdb
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\DiscordMusicBot\DiscordMusicBot\obj\Release\netcoreapp2.1\DiscordMusicBot.csprojAssemblyReference.cache
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\DiscordMusicBot\DiscordMusicBot\obj\Release\netcoreapp2.1\DiscordMusicBot.AssemblyInfoInputs.cache
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\DiscordMusicBot\DiscordMusicBot\obj\Release\netcoreapp2.1\DiscordMusicBot.AssemblyInfo.cs
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\DiscordMusicBot\DiscordMusicBot\obj\Release\netcoreapp2.1\DiscordMusicBot.dll
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\DiscordMusicBot\DiscordMusicBot\obj\Release\netcoreapp2.1\DiscordMusicBot.pdb
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\DiscordMusicBot\DiscordMusicBot\obj\Release\netcoreapp2.1\DiscordMusicBot.genruntimeconfig.cache

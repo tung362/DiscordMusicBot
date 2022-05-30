@@ -1,0 +1,6 @@
+MarketEndpoint = https://na-trade.naeu.playblackdesert.com
+MarketContentType = application/json
+MarketUserAgent = BlackDesert
+SearchEndpoint = https://bdo-api-helper.herokuapp.com
+SearchRegion = na
+SearchLanguage = en

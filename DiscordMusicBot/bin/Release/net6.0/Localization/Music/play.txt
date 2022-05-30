@@ -1,0 +1,5 @@
+CommandName = play
+Description = Searches and plays a music track from Youtube, Soundcloud, or from a direct link.
+Usage0 = play <search>
+Example0 = play MitiS - Embers (feat. SubLion & PRXZM)
+Example1 = play https://youtu.be/O7JRA07o100
