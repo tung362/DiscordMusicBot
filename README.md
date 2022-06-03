@@ -48,7 +48,7 @@ No pesky premiums included!
 ### Configuration:  
 1. Navigate to `\Configs`  
 
-### Screenshot:  
+### Screenshots:  
 ![alt text](https://i.imgur.com/WIgcHz9.png)  
 ![alt text](https://i.imgur.com/M2ePitt.png)  
 ![alt text](https://i.imgur.com/IE15Ei4.png)  
